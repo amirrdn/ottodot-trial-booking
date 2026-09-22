@@ -12,9 +12,9 @@ This report documents the usage of Artificial Intelligence tools throughout the 
 
 ## 2. What AI Was Used For
 
-- **Next.js Boilerplate Generation**: Initializing the Next.js 16 App Router foundation with TypeScript, PostCSS, and Tailwind CSS.
+- **Next.js Boilerplate Generation**: Initializing the Next.js App Router foundation with TypeScript, PostCSS, and Tailwind CSS.
 - **Prisma Schema & DDL**: Generating the relational schema definition covering `Parent`, `Student`, `TrialClass`, `Booking`, and `PaymentAttempt` along with compound unique constraints.
-- **Synthetic Seeder Scripts**: Generating [`prisma/seed.ts`](file:///home/amir-rudin/development/ottodot-trial-booking/prisma/seed.ts) to populate initial parents, students, classes, and the exact 3/4 pre-booked setup for race condition testing.
+- **Synthetic Seeder Scripts**: Generating `prisma/seed.ts` to populate initial parents, students, classes, and the exact 3/4 pre-booked setup for race condition testing.
 - **Tailwind UI Dashboard**: Scaffolding the SaaS EdTech admin dashboard, responsive session grid cards, attendee rosters, and the interactive simulator widget.
 
 ---
